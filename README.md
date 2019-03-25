@@ -1,4 +1,4 @@
-# terraform/aws/s3encrypted
+# terraform-aws-s3kms
 
 ## Inputs
 
